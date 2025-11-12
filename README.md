@@ -50,7 +50,7 @@
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🎉 EventHub (Django Full-Stack) | Event management web app built with Django, user authentication, event CRUD operations & responsive UI | [🔗 View Repo](https://github.com/preetham2203/eventhub-django) |
+| 🎉 EventHub (Django Full-Stack) | Full-stack Django web application with REST API featuring user authentication, event CRUD operations, real-time registration system with race condition protection, responsive Bootstrap UI, and comprehensive REST API for mobile/frontend integration. | [🔗 View Repo](https://github.com/preetham2203/eventhub-django) |
 | 🧑‍🎓 Student Management API | Django + MySQL backend for managing students with OTP authentication & password encryption | [🔗 View Repo](https://github.com/preetham2203/student-management-api) |
 | 📊 Ecommerce Return Rate Reduction Analysis | Power BI dashboard + predictive model to analyze and reduce e-commerce product returns | [🔗 View Repo](https://github.com/preetham2203/Ecommerce-Return-Rate-Reduction-Analysis) |
 | 💱 Currency Converter API | Django REST API for real-time currency conversion with fallback APIs | [🔗 View Repo](https://github.com/preetham2203/currency-converter-api) |

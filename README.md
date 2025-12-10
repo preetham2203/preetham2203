@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Preetham Reddy  
 🎓 **Data Science & Analytics Graduate** from Lovely Professional University  
-💻 Passionate about **Data Analytics, Backend Development, and Business Intelligence**  
+💻 Passionate about **Data Analytics, Backend Development, and Full Stack Development**  
 🌍 Open to entry-level opportunities 
 
 ---
 
 ### 🚀 About Me
-- 🧩 Skilled in **Python, MySQL, C++, R, Django (API Development), Front-End (HTML, CSS, Bootstrap), Tableau, Power BI, Apache Spark, Kafka, DBMS, Full-Stack**
+- 🧩 Skilled in **Python, MySQL, C++, R, Django (API Development), Front-End (HTML, CSS, Bootstrap), Tableau, Power BI, Apache Spark, Kafka, DBMS, Full-Stack, Basic integration and deployment to EC2 Amazon Linux Server**
 - 📊 Strong interest in **data-driven problem solving & interactive visualization**
 - 🧠 Currently exploring **Machine Learning** and **ETL pipelines**
 - 🪄 I love connecting backend APIs with clean front-end dashboards for end-to-end data solutions

@@ -11,7 +11,7 @@
 
 ## About Me
 
-Full Stack Developer with 9+ months of production experience building React.js + TypeScript frontends and Django REST APIs. Delivered **InstaCare** — a 3-portal Healthcare Management Platform (Patient, Admin, Doctor) with 25+ screens, Razorpay payment integration, Leaflet maps, and real-time slot booking. Also built **EventHub**, a full-stack event management system from database design to live deployment.
+Full Stack Developer with 1+ Years of production experience building React.js + TypeScript frontends and Django REST APIs. Delivered **InstaCare** — a 3-portal Healthcare Management Platform (Patient, Admin, Doctor) with 25+ screens, Razorpay payment integration, Leaflet maps, and real-time slot booking. Also built **EventHub**, a full-stack event management system from database design to live deployment.
 
 - 🏥 Built **InstaCare** — 25+ screens, 40+ REST API endpoints, Razorpay + Leaflet.js
 - ⚡ Reduced bundle size by ~28% and list render time from ~800ms to ~120ms
